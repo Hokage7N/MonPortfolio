@@ -1,0 +1,20 @@
+.footer{
+    width: 100%;
+    background-color: rgb(24, 24, 24);
+    display: flex;
+    justify-content: center ;
+    margin-top: 10%;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section {
+  flex: 1;
+  margin-right: 20px;
+}
+
+/* Autres styles pour les sections, titres, etc. */
